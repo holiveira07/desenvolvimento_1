@@ -1,0 +1,7 @@
+Resposta! 
+1. <HEADER>
+2. <MAIM>
+3. <IMG>
+4. <H1>
+5. <H2>
+6. <P>
